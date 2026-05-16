@@ -1,0 +1,169 @@
+year,reporter,reporter_code,partner,partner_code,flow,flow_code,hs_code,commodity,trade_value_usd,net_weight_kg
+2018,China,156,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",127448457526.0,23032972.754
+2018,China,156,World,0,Import,M,854232,Electronic integrated circuits; memories,123086689043.0,8709862.061
+2018,China,156,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,51776577514.0,25957966.286
+2018,China,156,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",29661575500.0,16849802.415
+2018,China,156,World,0,Export,X,854232,Electronic integrated circuits; memories,44093888065.0,3997609.732
+2018,China,156,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,9361580169.0,12392165.861
+2019,China,156,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",143736462430.0,23013641.56
+2019,China,156,World,0,Import,M,854232,Electronic integrated circuits; memories,94696845901.0,8433939.106
+2019,China,156,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,57400951358.0,25748826.721
+2019,China,156,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",35809527520.0,16469217.723
+2019,China,156,World,0,Export,X,854232,Electronic integrated circuits; memories,52381550712.0,4211183.618
+2019,China,156,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,11255178265.0,12918972.546
+2020,China,156,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",171410279840.0,25052110.457
+2020,China,156,World,0,Import,M,854232,Electronic integrated circuits; memories,95224179436.0,8949987.082
+2020,China,156,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,70980887572.0,26624518.249
+2020,China,156,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",40198944474.0,16393484.733
+2020,China,156,World,0,Export,X,854232,Electronic integrated circuits; memories,55786294923.0,4414067.286
+2020,China,156,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,17722136497.0,14783094.783
+2021,China,156,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",202905349548.0,27584690.006
+2021,China,156,World,0,Import,M,854232,Electronic integrated circuits; memories,121695576055.0,9887796.943
+2021,China,156,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,91398643861.0,30291574.014
+2021,China,156,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",50605985156.0,17422871.524
+2021,China,156,World,0,Export,X,854232,Electronic integrated circuits; memories,75439385754.0,4853297.695
+2021,China,156,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,22715569830.0,16594465.847
+2022,China,156,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",205091243739.0,24676667.32
+2022,China,156,World,0,Import,M,854232,Electronic integrated circuits; memories,101279362928.0,8674517.684
+2022,China,156,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,93876375266.0,24229034.719
+2022,China,156,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",52263191419.0,16379852.937
+2022,China,156,World,0,Export,X,854232,Electronic integrated circuits; memories,70297732758.0,4587161.775
+2022,China,156,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,27351708945.0,15036449.143
+2023,China,156,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",176211552393.0,21844735.599
+2023,China,156,World,0,Import,M,854232,Electronic integrated circuits; memories,78861504507.0,8419159.009
+2023,China,156,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,82064318445.0,20301805.024
+2023,China,156,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",49951603956.0,15513747.771
+2023,China,156,World,0,Export,X,854232,Electronic integrated circuits; memories,55763952983.0,4592064.55
+2023,China,156,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,26758599072.0,13868430.935
+2024,China,156,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",192552730799.0,21158340.355
+2024,China,156,World,0,Import,M,854232,Electronic integrated circuits; memories,93227484754.0,8206718.917
+2024,China,156,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,87329415403.0,20764655.913
+2024,China,156,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",56989663884.0,15676445.95
+2024,China,156,World,0,Export,X,854232,Electronic integrated circuits; memories,68719665964.0,4679621.476
+2024,China,156,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,29995209912.0,15047332.767
+2018,USA,842,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",21619335521.0,0.0
+2018,USA,842,World,0,Import,M,854232,Electronic integrated circuits; memories,3030260106.0,0.0
+2018,USA,842,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,8528902976.0,0.0
+2018,USA,842,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",19098951789.0,0.0
+2018,USA,842,World,0,Export,X,854232,Electronic integrated circuits; memories,3846507793.0,0.0
+2018,USA,842,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,10835931410.0,0.0
+2019,USA,842,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",21831882288.0,0.0
+2019,USA,842,World,0,Import,M,854232,Electronic integrated circuits; memories,1801292465.0,1380922.88
+2019,USA,842,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,8028539941.0,0.0
+2019,USA,842,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",23571976415.0,0.0
+2019,USA,842,World,0,Export,X,854232,Electronic integrated circuits; memories,2748527790.0,0.0
+2019,USA,842,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,10061249334.0,0.0
+2020,USA,842,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",21403723805.0,0.0
+2020,USA,842,World,0,Import,M,854232,Electronic integrated circuits; memories,1691681037.0,0.0
+2020,USA,842,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,7731843327.0,0.0
+2020,USA,842,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",27728119078.0,0.0
+2020,USA,842,World,0,Export,X,854232,Electronic integrated circuits; memories,2902237066.0,0.0
+2020,USA,842,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,10428506405.0,0.0
+2021,USA,842,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",27551319937.0,17280114.036
+2021,USA,842,World,0,Import,M,854232,Electronic integrated circuits; memories,2228543926.0,1445991.085
+2021,USA,842,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,10504769130.0,6625281.801
+2021,USA,842,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",32658378636.0,0.0
+2021,USA,842,World,0,Export,X,854232,Electronic integrated circuits; memories,2805927740.0,0.0
+2021,USA,842,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,14021357575.0,0.0
+2022,USA,842,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",24501417815.0,
+2022,USA,842,World,0,Import,M,854232,Electronic integrated circuits; memories,2772404016.0,1289384.087
+2022,USA,842,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,15129066181.0,
+2022,USA,842,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",29658200748.0,
+2022,USA,842,World,0,Export,X,854232,Electronic integrated circuits; memories,2449735145.0,1173591.091
+2022,USA,842,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,15967462786.0,
+2023,USA,842,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",20283575882.0,11170491.388
+2023,USA,842,World,0,Import,M,854232,Electronic integrated circuits; memories,2032402264.0,1086123.76
+2023,USA,842,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,12660950656.0,6822286.372
+2023,USA,842,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",25077591913.0,
+2023,USA,842,World,0,Export,X,854232,Electronic integrated circuits; memories,1902229107.0,
+2023,USA,842,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,13634852661.0,
+2024,USA,842,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",28368407940.0,
+2024,USA,842,World,0,Import,M,854232,Electronic integrated circuits; memories,1881609997.0,1011545.766
+2024,USA,842,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,8953636146.0,5479565.477
+2024,USA,842,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",32380543789.0,
+2024,USA,842,World,0,Export,X,854232,Electronic integrated circuits; memories,1996659933.0,
+2024,USA,842,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,13391550211.0,
+2018,Japan,392,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",6932935251.386,0.0
+2018,Japan,392,World,0,Import,M,854232,Electronic integrated circuits; memories,3766500777.835,0.0
+2018,Japan,392,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,9005242904.521,0.0
+2018,Japan,392,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",3487630695.016,0.0
+2018,Japan,392,World,0,Export,X,854232,Electronic integrated circuits; memories,11605194366.397,0.0
+2018,Japan,392,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,10813731794.803,0.0
+2019,Japan,392,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",7373261617.01,0.0
+2019,Japan,392,World,0,Import,M,854232,Electronic integrated circuits; memories,2742858990.002,2102755.0
+2019,Japan,392,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,8017443501.045,0.0
+2019,Japan,392,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",3136432373.276,0.0
+2019,Japan,392,World,0,Export,X,854232,Electronic integrated circuits; memories,11051592994.8,0.0
+2019,Japan,392,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,11519539973.077,0.0
+2020,Japan,392,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",6973921120.049,0.0
+2020,Japan,392,World,0,Import,M,854232,Electronic integrated circuits; memories,3095484553.853,2598384.017
+2020,Japan,392,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,8269837028.288,6707983.469
+2020,Japan,392,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",2775373746.037,0.0
+2020,Japan,392,World,0,Export,X,854232,Electronic integrated circuits; memories,12254499941.069,0.0
+2020,Japan,392,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,11192839960.044,0.0
+2021,Japan,392,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",8432906011.993,5289096.053
+2021,Japan,392,World,0,Import,M,854232,Electronic integrated circuits; memories,3620257186.895,2349004.458
+2021,Japan,392,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,12534887824.139,7905662.956
+2021,Japan,392,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",3352877524.159,0.0
+2021,Japan,392,World,0,Export,X,854232,Electronic integrated circuits; memories,14685279538.445,0.0
+2021,Japan,392,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,12175928126.72,0.0
+2022,Japan,392,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",9966869987.562,0.0
+2022,Japan,392,World,0,Import,M,854232,Electronic integrated circuits; memories,3514067679.294,1634315.533
+2022,Japan,392,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,17280990315.273,0.0
+2022,Japan,392,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",3557238318.625,0.0
+2022,Japan,392,World,0,Export,X,854232,Electronic integrated circuits; memories,13382691680.356,6411226.845
+2022,Japan,392,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,13043068182.81,0.0
+2023,Japan,392,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",10513562652.972,5789988.006
+2023,Japan,392,World,0,Import,M,854232,Electronic integrated circuits; memories,2524905770.458,1349319.57
+2023,Japan,392,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,14923429141.917,8041410.952
+2023,Japan,392,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",3262217683.817,
+2023,Japan,392,World,0,Export,X,854232,Electronic integrated circuits; memories,11487049276.903,
+2023,Japan,392,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,13488411014.577,
+2024,Japan,392,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",10065718410.808,
+2024,Japan,392,World,0,Import,M,854232,Electronic integrated circuits; memories,2350810287.646,1263785.905
+2024,Japan,392,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,10185254807.26,6233307.865
+2024,Japan,392,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",3035926958.487,
+2024,Japan,392,World,0,Export,X,854232,Electronic integrated circuits; memories,12894381497.837,
+2024,Japan,392,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,14196143657.666,
+2018,Rep. of Korea,410,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",16366050187.0,3226519.02
+2018,Rep. of Korea,410,World,0,Import,M,854232,Electronic integrated circuits; memories,13160548468.0,871040.318
+2018,Rep. of Korea,410,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,4692585480.0,2676832.807
+2018,Rep. of Korea,410,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",22095020467.0,7010842.722
+2018,Rep. of Korea,410,World,0,Export,X,854232,Electronic integrated circuits; memories,83048245976.0,2409438.007
+2018,Rep. of Korea,410,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,4294405578.0,2371949.341
+2019,Rep. of Korea,410,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",15718438700.0,2819894.606
+2019,Rep. of Korea,410,World,0,Import,M,854232,Electronic integrated circuits; memories,14970276478.0,915569.964
+2019,Rep. of Korea,410,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,4752861897.0,2542075.73
+2019,Rep. of Korea,410,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",20677631144.0,6661873.3
+2019,Rep. of Korea,410,World,0,Export,X,854232,Electronic integrated circuits; memories,53161754430.0,2315104.851
+2019,Rep. of Korea,410,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,4901265898.0,2489513.691
+2020,Rep. of Korea,410,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",18627208192.0,2897065.314
+2020,Rep. of Korea,410,World,0,Import,M,854232,Electronic integrated circuits; memories,15644386282.0,967972.21
+2020,Rep. of Korea,410,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,5684992728.0,2584833.393
+2020,Rep. of Korea,410,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",23516669861.0,7201549.609
+2020,Rep. of Korea,410,World,0,Export,X,854232,Electronic integrated circuits; memories,52358422298.0,2904294.715
+2020,Rep. of Korea,410,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,6622734380.0,3009383.138
+2021,Rep. of Korea,410,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",22700472302.0,3548574.007
+2021,Rep. of Korea,410,World,0,Import,M,854232,Electronic integrated circuits; memories,18828562175.0,1239849.972
+2021,Rep. of Korea,410,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,8322713671.0,3584171.006
+2021,Rep. of Korea,410,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",30405224004.0,7935121.67
+2021,Rep. of Korea,410,World,0,Export,X,854232,Electronic integrated circuits; memories,69177215461.0,3524598.554
+2021,Rep. of Korea,410,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,9101918746.0,3909976.958
+2022,Rep. of Korea,410,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",29434178716.0,3599888.406
+2022,Rep. of Korea,410,World,0,Import,M,854232,Electronic integrated circuits; memories,21014083309.0,1210566.561
+2022,Rep. of Korea,410,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,11063774604.0,3393825.327
+2022,Rep. of Korea,410,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",38402894055.0,7638168.329
+2022,Rep. of Korea,410,World,0,Export,X,854232,Electronic integrated circuits; memories,61777688705.0,3640902.323
+2022,Rep. of Korea,410,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,11628361856.0,4090622.666
+2023,Rep. of Korea,410,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",27901514073.0,3268667.948
+2023,Rep. of Korea,410,World,0,Import,M,854232,Electronic integrated circuits; memories,14842150664.0,1127008.525
+2023,Rep. of Korea,410,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,8541053930.0,2905974.032
+2023,Rep. of Korea,410,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",31414482258.0,6513270.718
+2023,Rep. of Korea,410,World,0,Export,X,854232,Electronic integrated circuits; memories,42893817517.0,3674035.216
+2023,Rep. of Korea,410,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,11175896537.0,3724518.592
+2024,Rep. of Korea,410,World,0,Import,M,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",32273223739.0,3206971.811
+2024,Rep. of Korea,410,World,0,Import,M,854232,Electronic integrated circuits; memories,19937007820.0,1152126.731
+2024,Rep. of Korea,410,World,0,Import,M,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,7936793602.0,2901214.734
+2024,Rep. of Korea,410,World,0,Export,X,854231,"Electronic integrated circuits; processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",35845619423.0,6608923.946
+2024,Rep. of Korea,410,World,0,Export,X,854232,Electronic integrated circuits; memories,72019703767.0,3207086.871
+2024,Rep. of Korea,410,World,0,Export,X,854239,Electronic integrated circuits; n.e.c. in heading no. 8542,11727089635.0,3610118.008
